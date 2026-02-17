@@ -1,4 +1,5 @@
-# AI Research Processor
+#THIS IS A LEGACY CODEBASE, it will no longer be mantained. For the updated repository, go to https://github.com/marcr2/Automatic-Hypothesis-Generation-Assistant
+# AI-powered Hypothesis Generator
 
 **AI-Powered Scientific Hypothesis Generator for Biomedical Research**
 
@@ -6,12 +7,7 @@ A comprehensive research tool with an intuitive graphical interface that scrapes
 
 ## 🚀 Quick Start
 
-## We now have a website!
-You can find AHGA at ahga.it.com
-
-#However if you prefer local usage, we also have a local installation option:
-
-### **Windows Users (Recommended)**
+### **Windows Users**
 ```bash
 # 1. First time setup (run once)
 install.bat
