@@ -1,4 +1,4 @@
-#THIS IS A LEGACY CODEBASE, it will no longer be mantained. For the updated repository, go to https://github.com/marcr2/Automatic-Hypothesis-Generation-Assistant
+# THIS IS A LEGACY CODEBASE, it will no longer be mantained. For the updated repository, go to https://github.com/marcr2/Automatic-Hypothesis-Generation-Assistant
 # AI-powered Hypothesis Generator
 
 **AI-Powered Scientific Hypothesis Generator for Biomedical Research**
